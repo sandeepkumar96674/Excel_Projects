@@ -5,9 +5,6 @@
 Bike Sale Data Analysis :
                For better understanding of Bake sales depend on various factor.
 
-## **Dataset used**
-- <a href="[https://github.com/sandeepkumar96674/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx](https://github.com/sandeepkumar96674/Bike_Sales_Data_Analysis-/blob/main/Bike%20Sales%20Data.xlsx)">Vrinda Store Data</a>
-
 
 ## **Process**
 
