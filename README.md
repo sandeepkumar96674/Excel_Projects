@@ -1,6 +1,6 @@
-# Bike Sales Data Analysis (Interactive Dashboard creation using MS Excel)
+## Project :  Bike Sales Data Analysis (Interactive Dashboard creation using MS Excel)
 
-## **Project Objective**
+## **Project Overview**
 
 Bike Sale Data Analysis :
                For better understanding of Bake sales depend on various factor.
